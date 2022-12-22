@@ -11,7 +11,7 @@ def hello():
     return 'I am good, how about you?'
 
 @app.route('/where are you')
-def hello():
+def hey():
     return 'I am in Bangalore, how about you?'
 
 if __name__ == "__main__":
