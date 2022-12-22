@@ -10,7 +10,7 @@ def main():
 def hello():
     return 'I am good, how about you?'
 
-@app.route('')
+@app.route('/where are you')
 def hello():
     return 'I am in Bangalore, how about you?'
 
